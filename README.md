@@ -1,4 +1,4 @@
-Solution: Deployment Automation for Wave Ops Engineering Development Challenge 
+Solution: Deployment Automation Sample  
 ======
 
 Various technologies, stacks and hacks were used for this task. Some of them are:
